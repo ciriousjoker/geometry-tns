@@ -1,5 +1,6 @@
 # geometry-tns
-A small file with common geometry functions.
+
+A small file with common geometry functions. The file is in German and I consider this project final, but I'm open to pull requests, for example for internationalization.
 
 This can only be used with TI-Nspire calculators or [an emulator](https://github.com/nspire-emus/firebird).
 
